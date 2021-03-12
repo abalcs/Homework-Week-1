@@ -1,4 +1,4 @@
-**HORISEON LANDING PAGE**
+# HORISEON LANDING PAGE
 
 This is a product and service marketing page designed to inform the client of the range of options we provide.
 
@@ -10,7 +10,7 @@ The goal was to make the page informative, clean, and accessible.
 
 **SCREENSHOTS**
 
-
+![Page Screenshot](./assets/images/screenshot.png)
 
 **TECH USED**
 
