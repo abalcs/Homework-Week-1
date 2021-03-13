@@ -4,6 +4,8 @@ This is a product and service marketing page designed to inform the client of th
 
 The goal was to make the page informative, clean, and accessible.
 
+https://abalcs.github.io/Homework-Week-1/
+
 **BUILD STATUS???**
 
 **CODE STYLE**
@@ -79,9 +81,6 @@ Without their support the refactoring of this magnificent landing page could not
 **LICENSE**
 
 There is no license for this project.
-
-
-https://github.com/abalcs
 
 
 ************************************************
