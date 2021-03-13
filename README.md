@@ -10,8 +10,6 @@ The goal was to make the page informative, clean, and accessible.
 
 **SCREENSHOTS**
 
-![Page Screenshot](./assets/images/screenshot.png)
-
 **TECH USED**
 
 Built with:
@@ -22,6 +20,8 @@ CSS3
 **FEATURES**
 
 Screen readers will love this fully accessible landing page complete with clickable, scrolling nav links, image tags, and semantic elements throughout.
+
+![Sample Code] ()
 
 **INSTALLATION**
 
