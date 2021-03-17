@@ -1,38 +1,3 @@
-# HORISEON LANDING PAGE
-
-This is a product and service marketing page designed to inform the client of the range of options we provide.
-
-The goal was to make the page informative, clean, and accessible.
-
-https://abalcs.github.io/Homework-Week-1/
-
-**BUILD STATUS???**
-
-**CODE STYLE**
-
-**SCREENSHOTS**
-
-**TECH USED**
-
-Built with:
-
-HTML5
-CSS3
-
-**FEATURES**
-
-Screen readers will love this fully accessible landing page complete with clickable, scrolling nav links, image tags, and semantic elements throughout.
-
-![Sample Code] ()
-
-**INSTALLATION**
-
-Simply click on the web link provided to view the page in production mode.
-
-**API REFERENCE**
-
-N/A for this application
-
 **CONTRIBUTING GUIDELINES**
 
 Thanks for taking the time to contribute!
@@ -81,22 +46,3 @@ Without their support the refactoring of this magnificent landing page could not
 **LICENSE**
 
 There is no license for this project.
-
-
-************************************************
-CODE REFACTORING
-
-This project has been refactored from the original code to include semantic elements wherever possible in order to increase accessibility.  
-
-**HTML**
-
-The title has been updated to be more specific.
-
-The Search Engine Optimization link in the nav has been fixed to correctly link to the main section content and all images have been given alt descriptions.
-
-**CSS**
-
-Semantic elements have been updated over class links where possible and some of the Main content has been re-positioned for better document flow.  
-
-For fun I also used 'scroll-behavior: smooth' for a better page transition when clicking the links in the nav bar.
-
